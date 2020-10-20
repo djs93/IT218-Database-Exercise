@@ -4,7 +4,6 @@ $hostname = 'sql1.njit.edu';
 $username = 'djs93';
 $password = 'oTB64*ICvje0KFd$G92L';
 $dsn = "mysql:host=$hostname;db=$username";
-$db = '';
 try{
     $db = new PDO($dsn, $username, $password);
     echo "connected to sql";

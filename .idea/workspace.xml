@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57457396-6489-45b9-9fcd-04449a2384e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pdo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_product.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdo.php" beforeDir="false" afterPath="$PROJECT_DIR$/pdo.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,12 +50,24 @@
       <option name="presentableId" value="Default" />
       <updated>1603231963329</updated>
       <workItem from="1603231964355" duration="17000" />
-      <workItem from="1603231994457" duration="2433000" />
+      <workItem from="1603231994457" duration="4378000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1603234567873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603234567873</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Deployment" timestamp="1603232018737">
@@ -65,10 +78,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.81.1920.1040@0.0.1920.1040" timestamp="1603233783468" />
-    <state x="557" y="88" key="CommitChangelistDialog2" timestamp="1603232911412">
+    <state x="557" y="88" key="CommitChangelistDialog2" timestamp="1603234567149">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="557" y="88" key="CommitChangelistDialog2/0.0.1920.1040/1920.81.1920.1040@0.0.1920.1040" timestamp="1603232911412" />
+    <state x="557" y="88" key="CommitChangelistDialog2/0.0.1920.1040/1920.81.1920.1040@0.0.1920.1040" timestamp="1603234567149" />
     <state x="601" y="340" key="Github.ShareDialog" timestamp="1603232654272">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -77,9 +90,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="710" y="224" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.81.1920.1040@0.0.1920.1040" timestamp="1603232662543" />
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1603232803711">
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1603235826141">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.81.1920.1040@0.0.1920.1040" timestamp="1603232803711" />
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.81.1920.1040@0.0.1920.1040" timestamp="1603235826141" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1603234569900">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.81.1920.1040@0.0.1920.1040" timestamp="1603234569900" />
   </component>
 </project>
