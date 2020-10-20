@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57457396-6489-45b9-9fcd-04449a2384e6" name="Default Changelist" comment="" />
+    <list default="true" id="57457396-6489-45b9-9fcd-04449a2384e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pdo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,12 +14,17 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jA1DcCiZmWdWhoAzZxmJ2bCvFe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
@@ -23,6 +32,12 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -34,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603231963329</updated>
       <workItem from="1603231964355" duration="17000" />
-      <workItem from="1603231994457" duration="377000" />
+      <workItem from="1603231994457" duration="2433000" />
     </task>
     <servers />
   </component>
@@ -46,5 +61,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Deployment/0.0.1920.1040/1920.81.1920.1040@0.0.1920.1040" timestamp="1603232018737" />
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603233783468">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.81.1920.1040@0.0.1920.1040" timestamp="1603233783468" />
+    <state x="557" y="88" key="CommitChangelistDialog2" timestamp="1603232911412">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="557" y="88" key="CommitChangelistDialog2/0.0.1920.1040/1920.81.1920.1040@0.0.1920.1040" timestamp="1603232911412" />
+    <state x="601" y="340" key="Github.ShareDialog" timestamp="1603232654272">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="601" y="340" key="Github.ShareDialog/0.0.1920.1040/1920.81.1920.1040@0.0.1920.1040" timestamp="1603232654272" />
+    <state x="710" y="224" key="Github.UntrackedFilesDialog" timestamp="1603232662543">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="710" y="224" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.81.1920.1040@0.0.1920.1040" timestamp="1603232662543" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1603232803711">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.81.1920.1040@0.0.1920.1040" timestamp="1603232803711" />
   </component>
 </project>
